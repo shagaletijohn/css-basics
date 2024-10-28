@@ -1,0 +1,89 @@
+.container{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    height: 1890px;
+    border: black solid 2px;
+}
+.container1{ 
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    height: 470px;
+}
+.container2{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    height: 470px;
+}
+.container3{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    height: 470px;
+}
+.container4{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    height: 470px;
+}
+.class{
+    width: 30%;
+    height: 350px;
+    margin: 20px;
+    padding: 40px;
+    background-color: bisque;
+    align-content: center;
+}
+a{
+    font-size: 30px;
+}
+.class img{
+    width: 100%;
+    height: 250px;
+}
+.class1{
+  background-color: aqua;
+}
+.class2{
+    background-color: bisque;
+}
+.class3{
+    background-color: cadetblue;
+}
+.class4{
+    background-color:rgb(188, 53, 53);
+}
+.class5{
+    background-color: blueviolet;
+}
+.class6{
+    background-color: rgb(40, 40, 237);
+}
+.class7{
+    background-color: chocolate;
+}
+.class8{
+    background-color: cornflowerblue;
+}
+.class9{
+    background-color: chartreuse;
+}
+.class10{
+    background-color: deepskyblue;
+}
+.class11{
+    background-color: indianred;
+}
+.class12{
+    background-color: moccasin;
+}
+footer{
+    width: 100%;
+    height: 100px;
+    padding-top: 20px;
+    background-color: gray;
+    font-size: 40px;
+}
